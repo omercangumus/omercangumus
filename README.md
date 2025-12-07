@@ -48,32 +48,6 @@ focus:
 
 ---
 
-## 🤖 AIOps & Observability
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                     🧠 AIOps Pipeline                           │
-├─────────────────────────────────────────────────────────────────┤
-│  📥 Collect  →  📊 Analyze  →  🔮 Predict  →  🔧 Automate      │
-│                                                                 │
-│  Logs • Metrics • Traces → ML/AI → Anomaly Detection → Action  │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-| Tool | Purpose |
-|:----:|:--------|
-| ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white) | APM & Infrastructure Monitoring |
-| ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) | Log Analytics & Search |
-| ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white) | SIEM & AIOps Platform |
-| ![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=flat-square&logo=pagerduty&logoColor=white) | Incident Response |
-| ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white) | Distributed Tracing |
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
