@@ -98,21 +98,13 @@ focus:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/omercangumus">
-    <img src="https://github-readme-stats.vercel.app/api?username=omercangumus&show_icons=true&count_private=true&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&bg_color=0d1117" alt="Stats" />
-  </a>
-</div>
 
-<div align="center">
-  <a href="https://github.com/omercangumus">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=omercangumus&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="Streak"/>
-  </a>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omercangumus&show_icons=true&count_private=true&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&bg_color=0d1117)
 
-<div align="center">
-  <a href="https://github.com/omercangumus">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omercangumus&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117" alt="Languages" />
-  </a>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omercangumus&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omercangumus&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117)
+
 </div>
 
 ---
