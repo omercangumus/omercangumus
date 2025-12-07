@@ -34,15 +34,64 @@ focus:
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,python,java,bash&theme=dark" alt="Core"/>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=terraform,ansible,docker,kubernetes,linux,git&theme=dark" alt="DevOps"/>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=gitlab,githubactions,prometheus,grafana&theme=dark" alt="CI/CD"/>
+### ☁️ Cloud
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=gcp" width="50" height="50" />
+<img src="https://skillicons.dev/icons?i=azure" width="50" height="50" />
+<br/>
+**AWS • GCP • Azure**
 
-</div>
+</td>
+<td align="center" width="33%">
+
+### 🔧 DevOps
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="K8s" width="65" height="65" />
+<br/>
+**Docker • Kubernetes • Linux**
+
+</td>
+<td align="center" width="33%">
+
+### 📦 IaC
+<img src="https://skillicons.dev/icons?i=terraform,ansible" width="100" height="50" />
+<br/>
+**Terraform • Ansible**
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+### 💻 Languages
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+<br/>
+**Python • Java • Bash**
+
+</td>
+<td align="center" width="33%">
+
+### 🚀 CI/CD
+<img src="https://skillicons.dev/icons?i=gitlab,githubactions,jenkins" width="150" height="50" />
+<br/>
+**GitLab • GitHub Actions**
+
+</td>
+<td align="center" width="33%">
+
+### 📊 Monitoring
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" width="100" height="50" />
+<br/>
+**Prometheus • Grafana**
+
+</td>
+</tr>
+</table>
 
 ---
 
