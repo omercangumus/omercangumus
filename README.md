@@ -1,97 +1,136 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ömer%20Can%20Gümüş&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AIOps%20Engineer%20|%20Cloud%20Architect%20|%20DevOps%20Enthusiast&descAlignY=52&descSize=18"/>
+
 <div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🚀+AIOps+Intern+%40+Beko;☁️+Multi-Cloud+Specialist+(AWS+%7C+GCP+%7C+Azure);🔧+Infrastructure+as+Code+Enthusiast)](https://git.io/typing-svg)
 
-# 👋 Hi, I'm Ömer Can Gümüş
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AIOps+Intern+%40+Beko;Cloud+Engineer;DevOps+Enthusiast;Multi-Cloud+Specialist" alt="Typing SVG" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=omercangumus&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=omercangumus&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+<a href="https://www.linkedin.com/in/%C3%B6mer-can-g%C3%BCm%C3%BC%C5%9F-a76950258/"><img src="https://img.shields.io/badge/-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:omercangumus3@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
 ---
 
-<div align="center">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+### 👨‍💻 About Me
+
+```yaml
+name: Ömer Can Gümüş
+current_role: AIOps Intern @ Beko
+education: Software Engineering Student
+location: Turkey 🇹🇷
+
+expertise:
+  - Cloud Computing (Multi-Cloud)
+  - DevOps & Automation
+  - Infrastructure as Code
+  - AIOps & Monitoring
+
+daily_tools:
+  - ☕ Coffee
+  - 🐍 Python
+  - ☁️ Cloud Consoles
+  - 🔧 Terraform
+```
+
+<br clear="both"/>
+
+---
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=omercangumus&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=omercangumus&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
 </div>
 
 ---
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+## 🛠️ Tech Arsenal
 
-### � About Me
-
-```yaml
-role: AIOps Intern @ Beko
-focus: 
-  - Cloud Computing
-  - DevOps Automation
-  - Multi-Cloud Architecture
-location: Turkey
-education: Software Engineering Student
-```
+<div align="center">
 
 ### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-<p>
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-</p>
+### � DevOps & Infrastructure
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### 🛠️ DevOps & Tools
+### 🚀 CI/CD & Tools
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<p>
-<img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/GitLab_CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
-### 💻 Programming
+</div>
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
+---
 
-</td>
-<td width="50%" valign="top">
+## 📊 GitHub Analytics
 
-### 📊 GitHub Statistics
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=omercangumus&show_icons=true&count_private=true&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omercangumus&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=omercangumus&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" alt="GitHub Stats" width="100%" />
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=omercangumus&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="Streak Stats"/>
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omercangumus&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" width="100%" />
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omercangumus&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" width="100%" />
+## 🐍 Contribution Graph
 
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/omercangumus/omercangumus/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omercangumus&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
 
 ---
 
 <div align="center">
-
-### 🤝 Connect With Me
-
-<a href="https://www.linkedin.com/in/%C3%B6mer-can-g%C3%BCm%C3%BC%C5%9F-a76950258/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:omercangumus3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/omercangumus"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  
+### 💭 Random Dev Quote
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  
+### 🤝 Let's Connect!
+
+<a href="https://www.linkedin.com/in/%C3%B6mer-can-g%C3%BCm%C3%BC%C5%9F-a76950258/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+<a href="mailto:omercangumus3@gmail.com">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845c8cb88.png"/>
+</a>
+<a href="https://github.com/omercangumus">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
+</a>
+
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
