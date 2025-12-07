@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ### 👨‍💻 About Me
 
@@ -28,11 +28,7 @@ expertise:
   - Infrastructure as Code
   - AIOps & Monitoring
 
-daily_tools:
-  - ☕ Coffee
-  - 🐍 Python
-  - ☁️ Cloud Consoles
-  - 🔧 Terraform
+daily_tools: [☕ Coffee, 🐍 Python, ☁️ Cloud, 🔧 Terraform]
 ```
 
 <br clear="both"/>
@@ -56,7 +52,7 @@ daily_tools:
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### � DevOps & Infrastructure
+### 🔧 DevOps & Infrastructure
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -91,19 +87,19 @@ daily_tools:
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/omercangumus/omercangumus/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omercangumus/omercangumus/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omercangumus/omercangumus/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/omercangumus/omercangumus/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 ---
 
 ## 📈 Activity Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omercangumus&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omercangumus&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 
 ---
 
@@ -113,23 +109,11 @@ daily_tools:
   
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div>
-
----
-
-<div align="center">
-  
 ### 🤝 Let's Connect!
 
-<a href="https://www.linkedin.com/in/%C3%B6mer-can-g%C3%BCm%C3%BC%C5%9F-a76950258/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-<a href="mailto:omercangumus3@gmail.com">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845c8cb88.png"/>
-</a>
-<a href="https://github.com/omercangumus">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B6mer-can-g%C3%BCm%C3%BC%C5%9F-a76950258/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omercangumus3@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omercangumus)
 
 </div>
 
