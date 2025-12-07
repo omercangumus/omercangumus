@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ömer%20Can%20Gümüş&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AIOps%20Engineer%20|%20Cloud%20Architect%20|%20DevOps%20Enthusiast&descAlignY=52&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ömer%20Can%20Gümüş&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Junior%20DevOps%20Engineer%20|%20Cloud%20Solution%20Architect&descAlignY=52&descSize=18"/>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🚀+AIOps+Intern+%40+Beko;☁️+Multi-Cloud+Specialist+(AWS+%7C+GCP+%7C+Azure);🔧+Infrastructure+as+Code+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🚀+AIOps+Intern+%40+Beko;💼+Junior+DevOps+Engineer;☁️+Cloud+Solution+Architect)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=omercangumus&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
 <a href="https://www.linkedin.com/in/%C3%B6mer-can-g%C3%BCm%C3%BC%C5%9F-a76950258/"><img src="https://img.shields.io/badge/-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
