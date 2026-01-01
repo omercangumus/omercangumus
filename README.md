@@ -52,9 +52,9 @@ focus:
 
 ---
 
-## 📊 Activity
+## � Contribution Snake
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/6366f1/omercangumus)
+![GitHub Snake Animation](https://raw.githubusercontent.com/omercangumus/omercangumus/output/github-contribution-grid-snake.svg)
 
 ---
 
