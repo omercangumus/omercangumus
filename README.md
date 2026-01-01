@@ -44,7 +44,7 @@ focus:
 |:--------:|:---------:|:------:|
 | <img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux&theme=dark" /> | <img src="https://skillicons.dev/icons?i=terraform,ansible&theme=dark" /> |
 
-| � Languages | �🚀 CI/CD | 📊 Monitoring |
+| � Languages | � CI/CD | 📊 Monitoring |
 |:------------:|:--------:|:-------------:|
 | <img src="https://skillicons.dev/icons?i=python,java,bash&theme=dark" /> | <img src="https://skillicons.dev/icons?i=gitlab,githubactions&theme=dark" /> | <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" /> |
 
@@ -56,11 +56,11 @@ focus:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omercangumus&show_icons=true&count_private=true&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omercangumus&show_icons=true&count_private=true&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&bg_color=0d1117&theme=dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omercangumus&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omercangumus&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omercangumus&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117&theme=dark)
 
 </div>
 
