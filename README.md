@@ -54,15 +54,7 @@ focus:
 
 ## 📊 Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/omercangumus)
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=omercangumus&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="Trophies"/>
-</div>
+![GitHub Contribution Graph](https://ghchart.rshah.org/6366f1/omercangumus)
 
 ---
 
