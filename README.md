@@ -52,17 +52,9 @@ focus:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Activity
 
-<div align="center">
-
-![GitHub Stats](https://stats-api.vercel.app/api?username=omercangumus&show_icons=true&count_private=true&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&bg_color=0d1117)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=omercangumus&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)
-
-![Top Languages](https://stats-api.vercel.app/api/top-langs/?username=omercangumus&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117)
-
-</div>
+![GitHub Contribution Graph](https://ghchart.rshah.org/omercangumus)
 
 ---
 
