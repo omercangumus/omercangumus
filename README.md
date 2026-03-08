@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ömer%20Can%20Gümüş&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AIOps%20Intern%20%40%20Beko&descAlignY=55&descSize=22"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ömer%20Can%20Gümüş&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AIOps%20Intern%20%40%20Beko&descAlignY=55&descSize=22"/>
 </div>
 
 <div align="center">
@@ -16,7 +16,9 @@
 
 ---
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<div align="center">
+  <img alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+</div>
 
 ## 👨‍� About Me
 
@@ -63,7 +65,7 @@ focus:
   
 ### 💭 Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%">
 
 </div>
 
