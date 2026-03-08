@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🚀+AIOps+Intern+%40+Beko;💼+Junior+DevOps+Engineer;☁️+Cloud+Solution+Architect)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🚀+AIOps+Intern+%40+Beko;💼+Junior+DevOps+Engineer;☁️+Cloud+Solution+Architect" alt="Typing SVG" width="100%" /></a>
 
 <br/>
 
@@ -40,18 +40,26 @@ focus:
 
 <div align="center">
 
-| ☁️ Cloud | 🔧 DevOps | 📦 IaC |
-|:--------:|:---------:|:------:|
-| <img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux&theme=dark" /> | <img src="https://skillicons.dev/icons?i=terraform,ansible&theme=dark" /> |
+<p align="center">
+  <strong>☁️ Cloud & Architecture</strong><br>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark" alt="Cloud" /><br><br>
 
-| � Languages | � CI/CD | 📊 Monitoring |
-|:------------:|:--------:|:-------------:|
-| <img src="https://skillicons.dev/icons?i=python,java,bash&theme=dark" /> | <img src="https://skillicons.dev/icons?i=gitlab,githubactions&theme=dark" /> | <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" /> |
+  <strong>🔧 DevOps & Containerization</strong><br>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux&theme=dark" alt="DevOps" /><br>
+  <img src="https://skillicons.dev/icons?i=terraform,ansible&theme=dark" alt="IaC" /><br><br>
+
+  <strong>💻 Languages & Tooling</strong><br>
+  <img src="https://skillicons.dev/icons?i=python,java,bash&theme=dark" alt="Languages" /><br><br>
+
+  <strong>🔄 CI/CD & 📊 Monitoring</strong><br>
+  <img src="https://skillicons.dev/icons?i=gitlab,githubactions&theme=dark" alt="CI/CD" /><br>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" alt="Monitoring" /><br>
+</p>
 
 </div>
 
 ---
-
+<div align="center">
   
 ### 💭 Dev Quote
 
