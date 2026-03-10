@@ -5,7 +5,7 @@
 <div align="center">
   
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&height=60&lines=AIOps+Enthusiast;DevOps+Engineer;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&height=60&lines=AIOps+Enthusiast;DevOps+Engineer;MLOps+Explorer" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -38,7 +38,7 @@ active_projects:
   - "Building and maintaining MLOps & AIOps projects in my GitHub repositories."
 
 mindset:
-  - "Highly eager to learn ('öğrenmeye açım')."
+  - "Hungry for knowledge and highly driven to explore new technologies."
   - "Continuously improving myself in these rapidly evolving fields."
 ```
 
@@ -89,7 +89,7 @@ mindset:
 ### 💭 Dev Quote
 
 > *"The most powerful tool we have as developers is automation."*  
-> *"Operations is a competitive advantage. Continuous learning is the key."*
+> — **Scott Hanselman**
 
 </div>
 
