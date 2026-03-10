@@ -4,7 +4,9 @@
 
 <div align="center">
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🚀+AIOps+Intern+%40+Beko;💼+Junior+DevOps+Engineer;☁️+Cloud+Solution+Architect" alt="Typing SVG" width="100%" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&height=60&lines=AIOps+Enthusiast;DevOps+Engineer;Lifelong+Learner" alt="Typing SVG" />
+</a>
 
 <br/>
 
@@ -20,18 +22,24 @@
   <img alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 </div>
 
-## 👨‍� About Me
+## 👨‍💻 About Me
 
 ```yaml
-name: Ömer Can Gümüş
-role: AIOps Intern @ Beko
-education: Software Engineering Student
-location: Turkey 🇹🇷
+name: "Ömer Can Gümüş"
+role: "AIOps Intern @ Beko"
+location: "Turkey 🇹🇷"
 
-focus:
-  - ☁️ Multi-Cloud Architecture
-  - 🔧 DevOps Automation
-  - 📊 AIOps & Monitoring
+core_domains:
+  - "DevOps"
+  - "AIOps"
+  - "MLOps"
+
+active_projects:
+  - "Building and maintaining MLOps & AIOps projects in my GitHub repositories."
+
+mindset:
+  - "Highly eager to learn ('öğrenmeye açım')."
+  - "Continuously improving myself in these rapidly evolving fields."
 ```
 
 <br clear="both"/>
@@ -44,18 +52,33 @@ focus:
 
 <p align="center">
   <strong>☁️ Cloud & Architecture</strong><br>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark" alt="Cloud" /><br><br>
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="aws" />
+  <img src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="gcp" />
+  <img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="azure" />
+</p>
 
+<p align="center">
   <strong>🔧 DevOps & Containerization</strong><br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux&theme=dark" alt="DevOps" /><br>
-  <img src="https://skillicons.dev/icons?i=terraform,ansible&theme=dark" alt="IaC" /><br><br>
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" alt="kubernetes" />
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="linux" />
+  <img src="https://skillicons.dev/icons?i=terraform&theme=dark" alt="terraform" />
+  <img src="https://skillicons.dev/icons?i=ansible&theme=dark" alt="ansible" />
+</p>
 
-  <strong>💻 Languages & Tooling</strong><br>
-  <img src="https://skillicons.dev/icons?i=python,java,bash&theme=dark" alt="Languages" /><br><br>
+<p align="center">
+  <strong>💻 Languages</strong><br>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="python" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="java" />
+  <img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="bash" />
+</p>
 
-  <strong>🔄 CI/CD & 📊 Monitoring</strong><br>
-  <img src="https://skillicons.dev/icons?i=gitlab,githubactions&theme=dark" alt="CI/CD" /><br>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" alt="Monitoring" /><br>
+<p align="center">
+  <strong>🔄 CI/CD & Monitoring</strong><br>
+  <img src="https://skillicons.dev/icons?i=gitlab&theme=dark" alt="gitlab" />
+  <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" alt="githubactions" />
+  <img src="https://skillicons.dev/icons?i=prometheus&theme=dark" alt="prometheus" />
+  <img src="https://skillicons.dev/icons?i=grafana&theme=dark" alt="grafana" />
 </p>
 
 </div>
@@ -65,7 +88,8 @@ focus:
   
 ### 💭 Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%">
+> *"The most powerful tool we have as developers is automation."*  
+> *"Operations is a competitive advantage. Continuous learning is the key."*
 
 </div>
 
