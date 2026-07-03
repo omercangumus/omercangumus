@@ -18,33 +18,41 @@
 
 ---
 
-<div align="center">
-  <img alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-</div>
-
 ## 👨‍💻 About Me
 
 ```yaml
 name: "Ömer Can Gümüş"
-role: "System Infrastructure Intern @ Beko"
+role: "System Infrastructure Intern @ Beko Corporate"
+education: "Software Engineering @ Fırat University"
 location: "Turkey 🇹🇷"
 
-core_domains:
-  - "System Infrastructure"
-  - "DevOps"
-  - "AIOps"
-  - "MLOps"
+what_i_do:
+  - "🤖 AIOps — applying ML to IT operations: anomaly detection, log intelligence, predictive maintenance"
+  - "☁️ Cloud & Infra — cost-aware AWS architectures with Terraform (IaC), Docker & Kubernetes"
+  - "🔄 DevOps & MLOps — CI/CD pipelines, observability stacks, and ML systems that survive production"
 
-current_focus:
-  - "SCCM environment modernization & patch management optimization"
-  - "Building AIOps & MLOps projects in my GitHub repositories"
+building:
+  - "👻 GhostCost — AWS cost optimization SaaS (Co-founder & CTO) → ghostcost.com"
+  - "🛰️ Star-Ops — autonomous spacecraft health monitoring (IAC 2026 submission)"
 
-mindset:
-  - "Hungry for knowledge and highly driven to explore new technologies."
-  - "Continuously improving myself in these rapidly evolving fields."
+competitions:
+  - "TEKNOFEST · TUA Astro Hackathon · IAC 2026 · UDHAM"
+
+toolbox_favorites: [Python, AWS, Terraform, Docker, Kubernetes, GitLab CI/CD, Grafana]
 ```
 
 <br clear="both"/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=omercangumus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omercangumus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=omercangumus&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff" alt="Activity Graph" />
+</div>
 
 ---
 
