@@ -46,12 +46,19 @@ toolbox_favorites: [Python, AWS, Terraform, Docker, Kubernetes, GitLab CI/CD, Gr
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=omercangumus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omercangumus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=omercangumus&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=omercangumus&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff" alt="Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=omercangumus&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=omercangumus&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&area_color=6366f1" alt="Activity Graph" />
 </div>
 
 ---
