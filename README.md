@@ -43,23 +43,40 @@ toolbox_favorites: [Python, AWS, Terraform, Docker, Kubernetes, GitLab CI/CD, Gr
 
 <br clear="both"/>
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=omercangumus&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omercangumus&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=omercangumus&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&area_color=6366f1" alt="Activity Graph" />
-</div>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">👻 GhostCost</h3>
+      <p align="center"><em>AWS Cost Optimization SaaS — Co-founder & CTO</em></p>
+      <p align="center">Detects hidden AWS waste, builds evidence-backed action playbooks, and turns cloud bills into savings. 160+ tests, full CI/CD, Docker-ready.</p>
+      <p align="center"><code>Python</code> <code>AWS</code> <code>Docker</code> <code>PostgreSQL</code></p>
+      <p align="center"><a href="https://ghostcost.com">🌐 ghostcost.com</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛰️ Star-Ops</h3>
+      <p align="center"><em>Autonomous Spacecraft Health Monitoring — IAC 2026</em></p>
+      <p align="center">AIOps + Edge-MLOps architecture for satellite telemetry: Isolation Forest, LSTM Autoencoders, drift detection with KS-test & PSI.</p>
+      <p align="center"><code>Python</code> <code>ML</code> <code>Edge-MLOps</code> <code>Telemetry</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📡 Cosmic Pipeline</h3>
+      <p align="center"><em>TUA Astro Hackathon 2026</em></p>
+      <p align="center">Hybrid DSP + ML pipeline cleaning radiation-corrupted satellite telemetry — 362 anomalies processed in 3.3 seconds, with a Three.js 3D dashboard.</p>
+      <p align="center"><code>Python</code> <code>DSP</code> <code>Three.js</code> <code>ML</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">✉️ mail-otomasyonu</h3>
+      <p align="center"><em>AI-Powered Email Automation</em></p>
+      <p align="center">Multi-provider LLM support (Gemini, OpenRouter, OpenAI-compatible), Hunter.io email discovery, keyring-backed secret storage.</p>
+      <p align="center"><code>Python</code> <code>LLM</code> <code>Automation</code></p>
+      <p align="center"><a href="https://github.com/omercangumus/mail-otomasyonu">📂 Repo</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
