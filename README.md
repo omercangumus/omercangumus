@@ -28,7 +28,7 @@ what_i_do:
   - "🔄 DevOps & MLOps — CI/CD pipelines, observability stacks, and ML systems that survive production"
  
 building:
-  - "👻 GhostCost — AWS cost optimization SaaS (Co-founder & CTO) → ghostcost.com"
+  - "👻 GhostCost — AWS cost optimization SaaS → ghostcost.com"
   - "🛰️ Star-Ops — autonomous spacecraft health monitoring (IAC 2026 submission)"
  
 competitions:
@@ -44,7 +44,7 @@ toolbox_favorites: [Python, AWS, Terraform, Docker, Kubernetes, GitLab CI/CD, Gr
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">👻 GhostCost</h3>
-      <p align="center"><em>AWS Cost Optimization SaaS — Co-founder & CTO</em></p>
+      <p align="center"><em>AWS Cost Optimization SaaS</em></p>
       <p align="center">Detects hidden AWS waste, builds evidence-backed action playbooks, and turns cloud bills into savings. 160+ tests, full CI/CD, Docker-ready.</p>
       <p align="center"><code>Python</code> <code>AWS</code> <code>Docker</code> <code>PostgreSQL</code></p>
       <p align="center"><a href="https://ghostcost.com">🌐 ghostcost.com</a></p>
@@ -117,4 +117,3 @@ toolbox_favorites: [Python, AWS, Terraform, Docker, Kubernetes, GitLab CI/CD, Gr
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
- 
