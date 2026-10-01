@@ -1,14 +1,12 @@
 <div align="center">
-
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:312E81,100:7C3AED&height=210&section=header&text=Ömer%20Can%20Gümüş&fontSize=48&fontColor=F8FAFC&fontAlignY=38&animation=twinkling&desc=MLOps%20%7C%20AIOps%20%7C%20Cloud%20Infrastructure&descAlignY=60&descSize=19" alt="Ömer Can Gümüş"/>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:312E81,100:7C3AED&height=180&section=header&text=Ömer%20Can%20Gümüş&fontSize=48&fontColor=F8FAFC&fontAlignY=35&animation=twinkling&desc=MLOps%20%7C%20AIOps%20%7C%20Cloud%20Infrastructure&descAlignY=58&descSize=19" alt="Ömer Can Gümüş"/>
   <a href="https://linkedin.com/in/omercangumus">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:omercangumus3@gmail.com">
     <img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-
+  <img src="https://komarev.com/ghpvc/?username=omercangumus&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views"/>
 </div>
 
 ## 👨‍💻 About Me
@@ -29,11 +27,9 @@ I enjoy the operational side of machine learning: understanding how systems beha
 
 ## ⚙️ Selected Technologies
 
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=python,aws,docker,kubernetes,terraform,githubactions,prometheus,grafana&perline=8&theme=dark" alt="Python, AWS, Docker, Kubernetes, Terraform, GitHub Actions, Prometheus and Grafana"/>
-
-</div>
+<p align="center">
+  <img width="560" src="https://skillicons.dev/icons?i=python,aws,docker,kubernetes,terraform,githubactions,prometheus,grafana&perline=8&theme=dark" alt="Python, AWS, Docker, Kubernetes, Terraform, GitHub Actions, Prometheus and Grafana"/>
+</p>
 
 ## 🌍 Open Source & Collaboration
 
@@ -41,7 +37,5 @@ I enjoy the operational side of machine learning: understanding how systems beha
 - **[Squad](https://github.com/bradygaster/squad)** — Merged contributions to an AI-agent project, working on CI/CD, observability, and operational tooling.
 
 <div align="center">
-
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:312E81,100:7C3AED&height=90&section=footer" alt="Footer"/>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:312E81,100:7C3AED&height=60&section=footer" alt="Footer"/>
 </div>
