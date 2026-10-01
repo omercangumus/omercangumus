@@ -1,108 +1,159 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,55:312E81,100:6D28D9&height=210&section=header&text=Ömer%20Can%20Gümüş&fontSize=48&fontColor=F8FAFC&fontAlignY=38&animation=fadeIn&desc=MLOps%20%7C%20AI%20Infrastructure%20%7C%20Cloud%20Systems&descAlignY=60&descSize=18" alt="Ömer Can Gümüş"/>
-  
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3200&pause=800&color=A5B4FC&center=true&vCenter=true&width=560&height=45&lines=Making+ML+systems+production-ready;Anomaly+detection+%C2%B7+model+monitoring;Cloud+infrastructure+%C2%B7+automation" alt="MLOps, model monitoring, and cloud infrastructure"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:312E81,100:6D28D9&height=190&section=header&text=Ömer%20Can%20Gümüş&fontSize=48&fontColor=F8FAFC&fontAlignY=38&animation=twinkling&desc=MLOps%20%7C%20AIOps%20%7C%20Cloud%20Infrastructure&descAlignY=60&descSize=18" alt="Ömer Can Gümüş"/>
 
   <p>
     <a href="https://github.com/omercangumus">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
     </a>
     <a href="https://linkedin.com/in/omercangumus">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:omercangumus3@gmail.com">
-      <img src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      <img src="https://img.shields.io/badge/Email-4F46E5?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
-  
-  <img src="https://komarev.com/ghpvc/?username=omercangumus&label=PROFILE%20VIEWS&color=6366F1&style=flat-square" alt="Profile views"/>
 </div>
 
----
+## About Me
 
-## 01 / Profile
+Software Engineering student at Fırat University, focused on **MLOps** and production-ready ML systems. Interested in model monitoring, anomaly detection, cloud platforms, and automation.
 
-I'm Ömer Can, a Software Engineering student at Fırat University. My main focus is **MLOps**: building ML systems that are observable, reliable, and ready for production.
+## Featured Projects
 
-I also work on AIOps, cloud infrastructure, and automation—turning operational data into systems people can act on.
+<details>
+  <summary><strong>🛰️ Star-Ops</strong> · Edge-MLOps for spacecraft telemetry</summary>
 
-**Currently exploring:** model monitoring · anomaly detection · cloud-native platforms · intelligent operations
+  Anomaly detection and health monitoring for a six-satellite simulation, with drift detection using KS-test and PSI.
 
-## 02 / Selected Work
+  `Python` `FastAPI` `Isolation Forest` `LSTM Autoencoder`
 
-### 🛰️ Star-Ops
-**Autonomous spacecraft health monitoring · IAC 2026**
+</details>
 
-An Edge-MLOps architecture for telemetry across a six-satellite simulation. Combines Isolation Forest and LSTM Autoencoders for anomaly detection, with KS-test and PSI for drift monitoring.
+<details>
+  <summary><strong>👻 GhostCost</strong> · AWS cost optimization</summary>
 
-`Python` `FastAPI` `Edge MLOps` `Telemetry`
+  Detects cloud waste and creates evidence-backed savings playbooks. Includes 160+ tests and a Docker-ready CI/CD pipeline.
 
-### 👻 GhostCost
-**AWS cost optimization SaaS**
+  [ghostcost.com](https://ghostcost.com) · `Python` `AWS` `Docker`
 
-Finds hidden cloud waste and turns billing signals into evidence-backed savings playbooks. Built with a deterministic detection engine, Docker-ready CI/CD, and 160+ tests.
+</details>
 
-[Explore GhostCost →](https://ghostcost.com)
+<details>
+  <summary><strong>📡 Cosmic Pipeline</strong> · Satellite telemetry cleanup</summary>
 
-`Python` `AWS` `Docker` `PostgreSQL`
+  Hybrid DSP and ML pipeline that processed 362 radiation-corrupted telemetry anomalies in 3.3 seconds. Includes a Three.js dashboard.
 
-### 📡 Cosmic Pipeline
-**Satellite telemetry · TUA Astro Hackathon 2026**
+  `Python` `DSP` `Machine Learning` `Three.js`
 
-A hybrid DSP + ML pipeline for cleaning radiation-corrupted telemetry. Processes 362 anomalies in 3.3 seconds and includes a Three.js 3D dashboard.
+</details>
 
-`Python` `DSP` `Machine Learning` `Three.js`
+<details>
+  <summary><strong>📊 Oracle Explain Plan Assistant</strong> · Execution plan analysis</summary>
 
-### 📊 Oracle Explain Plan Assistant
+  Flags potential Oracle query performance risks with deterministic checks and explains findings using an LLM.
 
-Analyzes Oracle execution plans with deterministic checks for costly joins, scans, and partition-pruning issues. An LLM explains the evidence in plain language.
+  `Python` `Streamlit` `Oracle` `LLM`
 
-`Python` `Streamlit` `Oracle` `LLM`
+</details>
 
-### ✉️ Mail Automation
+<details>
+  <summary><strong>✉️ Mail Automation</strong> · AI-powered email workflows</summary>
 
-AI-powered email automation with multi-provider LLM support, Hunter.io email discovery, and keyring-backed secret storage.
+  Multi-provider LLM support, Hunter.io email discovery, and keyring-backed secret storage.
 
-[View repository →](https://github.com/omercangumus/mail-otomasyonu)
+  [GitHub repository](https://github.com/omercangumus/mail-otomasyonu) · `Python` `LLMs`
 
-`Python` `LLMs` `Automation`
+</details>
+
+## Tech Stack
+
+**Focus:** MLOps · AIOps · Cloud Infrastructure · CI/CD · Observability
 
 <div align="center">
-  <br/>
-  <img src="https://img.shields.io/badge/STAR--OPS-88.7%25%20DETECTION-7C3AED?style=for-the-badge" alt="Star-Ops detection accuracy: 88.7%"/>
-  <img src="https://img.shields.io/badge/GHOSTCOST-160%2B%20TESTS-2563EB?style=for-the-badge" alt="GhostCost: more than 160 tests"/>
-  <img src="https://img.shields.io/badge/COSMIC%20PIPELINE-3.3s-0891B2?style=for-the-badge" alt="Cosmic Pipeline: 3.3 seconds"/>
+  <img src="https://skillicons.dev/icons?i=python,aws,docker,kubernetes,terraform,prometheus,grafana,linux,githubactions&perline=5&theme=dark" alt="Python, AWS, Docker, Kubernetes, Terraform, Prometheus, Grafana, Linux and GitHub Actions"/>
 </div>
 
-## 03 / Toolbox
+## Collaboration
 
-**MLOps & AIOps**  
-Anomaly detection · Model monitoring · Drift detection · LLMOps
+**Gambia Garden** · DevOps contributions across CI/CD, deployment planning, testing, and release readiness.
 
-**Cloud & Platform**  
-AWS · Azure · Docker · Kubernetes · Terraform · Ansible · Linux
+[Project repository →](https://github.com/vincentyaldoo/gabiagarden)<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:312E81,100:6D28D9&height=190&section=header&text=Ömer%20Can%20Gümüş&fontSize=48&fontColor=F8FAFC&fontAlignY=38&animation=twinkling&desc=MLOps%20%7C%20AIOps%20%7C%20Cloud%20Infrastructure&descAlignY=60&descSize=18" alt="Ömer Can Gümüş"/>
 
-**Observability & Delivery**  
-Prometheus · Grafana · CI/CD · GitHub Actions · GitLab CI/CD
+  <p>
+    <a href="https://github.com/omercangumus">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://linkedin.com/in/omercangumus">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:omercangumus3@gmail.com">
+      <img src="https://img.shields.io/badge/Email-4F46E5?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+</div>
 
-**Languages**  
-Python · SQL · Bash · Java
+## About Me
+
+Software Engineering student at Fırat University, focused on **MLOps** and production-ready ML systems. Interested in model monitoring, anomaly detection, cloud platforms, and automation.
+
+## Featured Projects
+
+<details>
+  <summary><strong>🛰️ Star-Ops</strong> · Edge-MLOps for spacecraft telemetry</summary>
+
+  Anomaly detection and health monitoring for a six-satellite simulation, with drift detection using KS-test and PSI.
+
+  `Python` `FastAPI` `Isolation Forest` `LSTM Autoencoder`
+
+</details>
+
+<details>
+  <summary><strong>👻 GhostCost</strong> · AWS cost optimization</summary>
+
+  Detects cloud waste and creates evidence-backed savings playbooks. Includes 160+ tests and a Docker-ready CI/CD pipeline.
+
+  [ghostcost.com](https://ghostcost.com) · `Python` `AWS` `Docker`
+
+</details>
+
+<details>
+  <summary><strong>📡 Cosmic Pipeline</strong> · Satellite telemetry cleanup</summary>
+
+  Hybrid DSP and ML pipeline that processed 362 radiation-corrupted telemetry anomalies in 3.3 seconds. Includes a Three.js dashboard.
+
+  `Python` `DSP` `Machine Learning` `Three.js`
+
+</details>
+
+<details>
+  <summary><strong>📊 Oracle Explain Plan Assistant</strong> · Execution plan analysis</summary>
+
+  Flags potential Oracle query performance risks with deterministic checks and explains findings using an LLM.
+
+  `Python` `Streamlit` `Oracle` `LLM`
+
+</details>
+
+<details>
+  <summary><strong>✉️ Mail Automation</strong> · AI-powered email workflows</summary>
+
+  Multi-provider LLM support, Hunter.io email discovery, and keyring-backed secret storage.
+
+  [GitHub repository](https://github.com/omercangumus/mail-otomasyonu) · `Python` `LLMs`
+
+</details>
+
+## Tech Stack
+
+**Focus:** MLOps · AIOps · Cloud Infrastructure · CI/CD · Observability
 
 <div align="center">
-  <br/>
-  <img src="https://skillicons.dev/icons?i=python,java,bash,aws,azure,docker,kubernetes,terraform,ansible,linux,githubactions,gitlab,prometheus,grafana,postgres&perline=6&theme=dark" alt="Python, Java, Bash, AWS, Azure, Docker, Kubernetes, Terraform, Ansible, Linux, GitHub Actions, GitLab, Prometheus, Grafana, PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=python,aws,docker,kubernetes,terraform,prometheus,grafana,linux,githubactions&perline=5&theme=dark" alt="Python, AWS, Docker, Kubernetes, Terraform, Prometheus, Grafana, Linux and GitHub Actions"/>
 </div>
 
-## 04 / Collaboration
+## Collaboration
 
-### 🌱 Gambia Garden
-
-Contributing to deployment planning, CI/CD, testing, and release readiness for an international team.
+**Gambia Garden** · DevOps contributions across CI/CD, deployment planning, testing, and release readiness.
 
 [Project repository →](https://github.com/vincentyaldoo/gabiagarden)
-
----
-
-<div align="center">
-  <sub>Build it. Monitor it. Make it better.</sub>
-</div>
